@@ -11,7 +11,7 @@ This chapter teaches the reader how to develop and generate data quality scoreca
 
 ## Links and Files
 
-- <https://github.com/PacktPublishing/Managing-Data-Integrity-for-Finance/raw/main/ch03/Data Quality Scorecard Pizza Factory_Complete.xlsx>
+- https://github.com/PacktPublishing/Managing-Data-Integrity-for-Finance/raw/main/ch03/Data_Quality_Scorecard_Pizza_Factory_Complete.xlsx
 - https://www.microsoft.com/en-au/microsoft-365/free-office-online-for-the-web
 - https://docs.google.com/spreadsheets/d/1eHtfTbg4WkolvVaHDDYqdi2oDbbrLTq44op9MxqL1Nk/edit#gid=1819613655
 - https://en.wikipedia.org/wiki/Principle_of_least_privilege
