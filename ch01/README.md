@@ -17,6 +17,55 @@ This chapter gives the reader a quick overview of the concepts relevant to the s
 - https://en.wikipedia.org/wiki/Lock_(computer_science)
 - https://en.wikipedia.org/wiki/Floating-point_arithmetic
 
+## Code blocks specific to the chapter
+
+#### Mutual exclusion (without mutex lock)
+```
+import threading
+counter = 0
+ 
+def increment_counter():
+    global counter
+    for _ in range(100000):
+        counter += 1
+ 
+threads = []
+for i in range(10):
+    thread = threading.Thread(target=increment_counter)
+    threads.append(thread)
+    thread.start()
+ 
+for thread in threads:
+    thread.join()
+ 
+print(f"Final counter value without mutex: {counter}")
+```
+
+#### Mutual exclusion (with mutex lock)
+```
+import threading
+counter = 0
+counter_lock = threading.Lock()
+ 
+def increment_counter():
+    global counter
+    for _ in range(100000):
+        with counter_lock:
+            counter += 1
+ 
+threads = []
+for i in range(10):
+    thread = threading.Thread(target=increment_counter)
+    threads.append(thread)
+    thread.start()
+ 
+for thread in threads:
+    thread.join()
+ 
+print(f"Final counter value with mutex: {counter}")
+```
+
+
 ```
 principal = 1000
 rate = 0.001 # 0.1%
