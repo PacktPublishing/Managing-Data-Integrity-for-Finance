@@ -23,8 +23,8 @@ This chapter focuses on the common data quality capabilities of business intelli
 <br />
 
 ## Versions of the tools used
-- **Power BI Desktop**
-- **Tableau Desktop**
-- **Tableau Prep Builder**
-- **Tableau Cloud**
-- **Alteryx Designer**
+- **Power BI Desktop** April 2023 or later (no licenses required)
+- **Tableau Desktop** `2023.1` or later (free trial version)
+- **Tableau Prep Builder** `2023.1` or later (free trial version)
+- **Tableau Cloud** (free trial version)
+- **Alteryx Designer** `2022.3` version or later (free trial version)
