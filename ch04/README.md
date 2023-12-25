@@ -19,3 +19,12 @@ This chapter focuses on the common data quality capabilities of business intelli
 - https://www.alteryx.com/
 - https://www.alteryx.com/sparked
 - https://www.alteryx.com/products/alteryx-designer
+
+<br />
+
+## Versions of the tools used
+- **Power BI Desktop**
+- **Tableau Desktop**
+- **Tableau Prep Builder**
+- **Tableau Cloud**
+- **Alteryx Designer**
