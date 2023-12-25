@@ -45,4 +45,8 @@ CREATE TABLE Transactions (
     Amount decimal(10, 2),
     FOREIGN KEY (AccountID) REFERENCES Accounts(AccountID)
 );
+
+INSERT INTO Transactions (TransactionID, AccountID, TransactionDate,
+Amount)
+VALUES (101, 1, '2023-01-01', 500.00);
 ```
