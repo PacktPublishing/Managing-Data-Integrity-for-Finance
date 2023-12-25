@@ -12,3 +12,10 @@ This chapter focuses on the common data quality capabilities of business intelli
 ## Links and Files
 
 - [https://en.wikipedia.org/wiki/Levenshtein_distance](https://learn.microsoft.com/en-us/power-bi/collaborate-share/service-data-lineage)https://learn.microsoft.com/en-us/power-bi/collaborate-share/service-data-lineage
+- https://help.tableau.com/current/server/en-us/dm_overview.htm
+- https://powerbi.microsoft.com/en-us/getting-started-with-power-bi/
+- https://www.tableau.com/
+- https://www.tableau.com/products/online/request-trial
+- https://www.alteryx.com/
+- https://www.alteryx.com/sparked
+- https://www.alteryx.com/products/alteryx-designer
