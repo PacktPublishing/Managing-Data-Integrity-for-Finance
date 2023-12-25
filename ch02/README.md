@@ -1,4 +1,16 @@
 # Managing Data Integrity for Finance
+
+**Chapter 2: Avoiding Common Data Integrity Issues and Challenges in Finance Teams** <br />
+This chapter dives deep into the data integrity issues and challenges faced by different finance teams.
+
+<br />
+<br />
+<br />
+<br />
+<br />
+
+## Links and Files
+
 ## Implementing preventative measures and constraints when using databases such as PostgreSQL
 #### NOT NULL constraint
 
