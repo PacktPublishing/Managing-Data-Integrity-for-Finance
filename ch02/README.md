@@ -9,6 +9,8 @@ Balance decimal(10, 2)
 
 INSERT INTO Accounts (AccountID, Balance)
 VALUES (1, 100.00);
+```
+
 
 #### UNIQUE constraint
 
