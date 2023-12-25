@@ -12,6 +12,10 @@ This chapter gives the reader a quick overview of the concepts relevant to the s
 ## Links and Files
 
 - https://en.wikipedia.org/wiki/Levenshtein_distance
+- https://www.investopedia.com/terms/r/restatement.asp
+- https://www.online-python.com/
+- https://en.wikipedia.org/wiki/Lock_(computer_science)
+- https://en.wikipedia.org/wiki/Floating-point_arithmetic
 
 ```
 principal = 1000
