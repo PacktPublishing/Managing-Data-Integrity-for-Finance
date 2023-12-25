@@ -18,6 +18,7 @@ This chapter gives the reader a quick overview of the concepts relevant to the s
 - https://en.wikipedia.org/wiki/Floating-point_arithmetic
 
 <br />
+
 ## Code blocks specific to the chapter
 
 #### Mutual exclusion (without mutex lock)
