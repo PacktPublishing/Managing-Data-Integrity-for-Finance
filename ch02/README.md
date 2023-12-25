@@ -1,3 +1,15 @@
+#### NOT NULL constraint
+
+```
+CREATE TABLE Accounts (
+AccountID int,
+CustomerName varchar(100) NOT NULL,
+Balance decimal(10, 2)
+);
+
+INSERT INTO Accounts (AccountID, Balance)
+VALUES (1, 100.00);
+
 #### UNIQUE constraint
 
 ```
