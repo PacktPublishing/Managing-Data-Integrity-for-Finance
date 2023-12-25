@@ -65,11 +65,21 @@ for thread in threads:
 print(f"Final counter value with mutex: {counter}")
 ```
 
-
+#### Floating-point number
 ```
 principal = 1000
 rate = 0.001 # 0.1%
 time = 1/365
 interest_float = principal * rate * time
 interest_float
+```
+
+#### Decimal data type
+```
+from decimal import Decimal
+principal = Decimal('1000')
+rate = Decimal('0.001') # 0.1%
+time = Decimal('1') / Decimal('365')
+interest_decimal = principal * rate * time
+interest_decimal
 ```
