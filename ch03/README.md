@@ -13,5 +13,5 @@ This chapter teaches the reader how to develop and generate data quality scoreca
 
 - https://github.com/PacktPublishing/Managing-Data-Integrity-for-Finance/raw/main/ch03/Data_Quality_Scorecard_Pizza_Factory.xlsx
 - https://www.microsoft.com/en-au/microsoft-365/free-office-online-for-the-web
-- [https://docs.google.com/spreadsheets/d/1eHtfTbg4WkolvVaHDDYqdi2oDbbrLTq44op9MxqL1Nk/edit#gid=1819613655](https://docs.google.com/spreadsheets/d/1wD759gINukpu9VJOJWECdG0PwcrWX_C-2DfsASZBxAc/edit#gid=1819613655)https://docs.google.com/spreadsheets/d/1wD759gINukpu9VJOJWECdG0PwcrWX_C-2DfsASZBxAc/edit#gid=1819613655
+- [[https://docs.google.com/spreadsheets/d/1eHtfTbg4WkolvVaHDDYqdi2oDbbrLTq44op9MxqL1Nk/edit#gid=1819613655](https://docs.google.com/spreadsheets/d/1wD759gINukpu9VJOJWECdG0PwcrWX_C-2DfsASZBxAc/edit#gid=1819613655)https://docs.google.com/spreadsheets/d/1wD759gINukpu9VJOJWECdG0PwcrWX_C-2DfsASZBxAc/edit#gid=1819613655](https://docs.google.com/spreadsheets/d/1wD759gINukpu9VJOJWECdG0PwcrWX_C-2DfsASZBxAc/edit?usp=drive_link)https://docs.google.com/spreadsheets/d/1wD759gINukpu9VJOJWECdG0PwcrWX_C-2DfsASZBxAc/edit?usp=drive_link
 - https://en.wikipedia.org/wiki/Principle_of_least_privilege
