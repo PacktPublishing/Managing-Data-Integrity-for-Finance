@@ -9,8 +9,6 @@ This chapter dives deep into the data integrity issues and challenges faced by d
 <br />
 <br />
 
-## Links and Files
-
 ## Implementing preventative measures and constraints when using databases such as PostgreSQL
 #### NOT NULL constraint
 
