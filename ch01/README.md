@@ -11,8 +11,7 @@ This chapter gives the reader a quick overview of the concepts relevant to the s
 
 ## Links and Files
 
-- [https://en.wikipedia.org/wiki/Levenshtein_distance]
-(https://en.wikipedia.org/wiki/Levenshtein_distance)
+- https://en.wikipedia.org/wiki/Levenshtein_distance
 
 ```
 principal = 1000
