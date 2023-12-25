@@ -64,3 +64,19 @@ Balance decimal(10, 2) CHECK (Balance >= 0)
 INSERT INTO Accounts (AccountID, CustomerName, Balance)
 VALUES (1, 'Jane Doe', -100.00);
 ```
+
+
+#### DOMAIN constraint
+
+```
+CREATE TABLE Accounts (
+AccountID int,
+CustomerName varchar(100),
+Balance decimal(10, 2),
+Type varchar(20) CHECK (Type IN ('Savings', 'Checking', 'Credit',
+'Loan'))
+);
+
+INSERT INTO Accounts (AccountID, CustomerName, Balance, Type)
+VALUES (1, 'Jane Doe', 1000.00, 'Investment');
+```
