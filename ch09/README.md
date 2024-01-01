@@ -57,3 +57,9 @@ WHERE m.CustomerId = 'S0001'
 DELETE FROM myCustomers;
 ```
 
+<br />
+
+#### Working with history and data
+```
+SELECT * FROM history(myCustomers);
+```
