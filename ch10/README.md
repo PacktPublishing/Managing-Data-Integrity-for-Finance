@@ -67,3 +67,8 @@ Under which buckets do our values fall? Include the number of entries to underst
 Using the cleaned data, create a histogram with a bin size of 100 based on the Quantity column.
 
 ```
+
+#### Handling missing financial reporting data with AI
+```
+Please examine the contents of these three files and provide information as to their data structure and the type of data that they contain.
+```
