@@ -78,4 +78,8 @@ Can you check each of the columns in the 2022 Transactions.xlsx file for any mis
 
 Can you please list the transactions with the missing values in table format?
 
+Please calculate the Sales column by multiplying the Quantity column with the Price column. Update the data and list the transactions updated in table format.
+
+Please check the Quantity column in the 2022 Transactions.xlsx file to see if there are any outliers.
+
 ```
