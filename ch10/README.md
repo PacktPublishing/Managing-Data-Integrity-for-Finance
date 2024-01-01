@@ -88,4 +88,11 @@ I reviewed the invoice for Transaction Number 22022110029. The quantity should o
 
 Please review the Currency column and Price column in the 2022 Transactions.xlsx file with the Sales Price.xlsx file. If there are inconsistencies, please list them in table format and add a column for the price difference.
 
+Get the Quantity column for each of the transactions above and use this to calculate the total price difference. List them in a table format and include an overall total as well.
+
+Calculate the sales for each product key in the 2022 Transactions.xlsx file and match it with the Products.xlsx file.
+
+Please update the Products.xlsx file with the details of the Product Key 8 to Calculator.
+
+
 ```
