@@ -36,4 +36,6 @@ Please export the updated Sales_Transactions.xlsx file reflecting the changes ma
 ```
 Please analyze what this file contains and provide information as to the data structure and type of data it has.
 
+Give me a preview of the data in the file.
+
 ```
