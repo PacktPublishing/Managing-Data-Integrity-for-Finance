@@ -48,4 +48,10 @@ Please remove the duplicate rows identified then provide the total distinct and 
 
 Please provide the details of the transaction or transactions which do not have a date in the year 2020.
 
+Please update the year to 2020 for the Transaction Date and show the updated fields for this transaction.
+
+Review the Product_ID and Sales_Manager columns to see if there are any unusual values.
+
+Provide the details of the top 10 transactions with the highest quantities.
+
 ```
