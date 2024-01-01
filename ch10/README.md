@@ -24,4 +24,6 @@ Please examine the contents of these two files and provide information as to the
 
 Please validate the Suburb column in the Sales_Transactions.xlsx file to the NSW_Post_Code.xlsx file. Please identify any suburbs that have mismatches using this column between the two files.
 
+For these mismatched suburbs, find the closest match based on the NSW Post Code.xlsx file based on similarity of spelling. Please list them in a table format for review prior to any updates.
+
 ```
