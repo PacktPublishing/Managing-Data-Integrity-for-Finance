@@ -49,3 +49,11 @@ UPDATE myCustomers AS m
 SET m.Loans.Car = 5000
 WHERE m.CustomerId = 'S0001'
 ```
+
+<br />
+
+#### Deleting records from the ledger
+```
+DELETE FROM myCustomers;
+```
+
