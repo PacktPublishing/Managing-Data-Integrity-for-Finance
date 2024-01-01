@@ -26,4 +26,6 @@ Please validate the Suburb column in the Sales_Transactions.xlsx file to the NSW
 
 For these mismatched suburbs, find the closest match based on the NSW Post Code.xlsx file based on similarity of spelling. Please list them in a table format for review prior to any updates.
 
+Please update the mismatched suburbs in the Sales_Transactions.xlsx file based on the closest match. Kindly show the transactions in table format when completed.
+
 ```
