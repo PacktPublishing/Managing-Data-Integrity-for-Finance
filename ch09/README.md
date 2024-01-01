@@ -42,3 +42,9 @@ WHERE m.data.CustomerId = 'S0001'
 ```
 
 <br />
+#### Updating the transaction
+```
+UPDATE myCustomers AS m
+SET m.Loans.Car = 5000
+WHERE m.CustomerId = 'S0001'
+```
