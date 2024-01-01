@@ -1,1 +1,19 @@
+# Managing Data Integrity for Finance
 
+**Chapter 10: Using Artificial Intelligence for Finance Data Quality Management** <br />
+This chapter exposes the reader to artificial intelligence solutions relevant to data quality and data integrity management.
+
+<br />
+<br />
+<br />
+<br />
+<br />
+
+## Links and Files
+<br />
+
+## Code blocks specific to the chapter
+#### How we can use ChatGPT for data integrity
+```
+Search the internet and answer how can I use ChatGPT for data integrity?
+```
