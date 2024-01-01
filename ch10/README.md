@@ -17,3 +17,8 @@ This chapter exposes the reader to artificial intelligence solutions relevant to
 ```
 Search the internet and answer how can I use ChatGPT for data integrity?
 ```
+
+#### Detecting anomalies in financial transaction data
+```
+Please examine the contents of these two files and provide information as to their data structure and type of data that they contain.
+```
