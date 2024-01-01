@@ -71,4 +71,6 @@ Using the cleaned data, create a histogram with a bin size of 100 based on the Q
 #### Handling missing financial reporting data with AI
 ```
 Please examine the contents of these three files and provide information as to their data structure and the type of data that they contain.
+
+For the 2022 Transactions.xlsx file, please check for possible duplicate transactions using the Transaction Number.
 ```
