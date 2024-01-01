@@ -58,7 +58,11 @@ DELETE FROM myCustomers;
 ```
 
 
-#### Working with history and data
+#### Working with history and data (history)
 ```
 SELECT * FROM history(myCustomers);
+```
+#### Working with history and data (data)
+```
+SELECT data FROM history(myCustomers);
 ```
