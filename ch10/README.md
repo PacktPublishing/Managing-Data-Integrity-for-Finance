@@ -58,4 +58,6 @@ For Transaction ID 2020644, update the Quantity to 200 and show the updated deta
 
 Export the cleaned data to an Excel file.
 
+Using the original dataset uploaded, create a scatter chart with sum of quantity on the Y-axis and the months on the X-axis.
+
 ```
