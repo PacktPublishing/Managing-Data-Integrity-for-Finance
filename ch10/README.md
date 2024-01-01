@@ -77,4 +77,5 @@ For the 2022 Transactions.xlsx file, please check for possible duplicate transac
 Can you check each of the columns in the 2022 Transactions.xlsx file for any missing values?
 
 Can you please list the transactions with the missing values in table format?
+
 ```
