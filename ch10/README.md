@@ -31,3 +31,9 @@ Please update the mismatched suburbs in the Sales_Transactions.xlsx file based o
 Please export the updated Sales_Transactions.xlsx file reflecting the changes made.
 
 ```
+
+#### Detecting anomalies in financial transaction data (first hands-on exercise)
+```
+Please analyze what this file contains and provide information as to the data structure and type of data it has.
+
+```
