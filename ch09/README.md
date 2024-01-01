@@ -66,6 +66,7 @@ SELECT * FROM history(myCustomers);
 ```
 SELECT data FROM history(myCustomers);
 ```
+
 #### Inserting the Initial Records again
 INSERT INTO "myCustomers" `{"CustomerName":"John Ryan","CustomerId":"S0001", "CustomerAddress": "55 Prairie, Lincoln Drive 20502", "Loans":{"Student":10000,"Car":5000}}`;
 INSERT INTO "myCustomers" `{"CustomerName":"Jack Kane","CustomerId":"S0002", "CustomerAddress": "77 Shawn St, Bradley Drive 20206", "Loans":{"Car":45000}}`;
