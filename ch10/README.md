@@ -60,4 +60,10 @@ Export the cleaned data to an Excel file.
 
 Using the original dataset uploaded, create a scatter chart with sum of quantity on the Y-axis and the months on the X-axis.
 
+Using the original dataset, create a histogram using the quantity column with bin size of 1,553.
+
+Under which buckets do our values fall? Include the number of entries to understand the distribution.
+
+Using the cleaned data, create a histogram with a bin size of 100 based on the Quantity column.
+
 ```
