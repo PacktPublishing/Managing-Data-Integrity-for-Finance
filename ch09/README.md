@@ -24,3 +24,10 @@ INSERT INTO "myCustomers" `{"CustomerName":"John Ryan","CustomerId":"S0001", "Cu
 ```
 SELECT * FROM myCustomers;
 ```
+<br />
+
+#### Inserting additional data into the table
+```
+INSERT INTO "myCustomers" `{"CustomerName":"Jack Kane","CustomerId":"S0002", "CustomerAddress": "77 Shawn St, Bradley Drive 20206", "Loans":{"Car":45000}}`;
+INSERT INTO "myCustomers" `{"CustomerName":"Winnie Li","CustomerId":"S0003", "CustomerAddress": "86 Wonder Road, Sunrise Drive 20238", "Loans":{"Home":35000}}`;
+```
