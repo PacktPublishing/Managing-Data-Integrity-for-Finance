@@ -94,5 +94,7 @@ Calculate the sales for each product key in the 2022 Transactions.xlsx file and 
 
 Please update the Products.xlsx file with the details of the Product Key 8 to Calculator.
 
+Please export the updated 2022 Transactions.xlsx file which reflects the changes we have made.
+
 
 ```
