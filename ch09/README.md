@@ -35,6 +35,7 @@ INSERT INTO "myCustomers" `{"CustomerName":"Winnie Li","CustomerId":"S0003", "Cu
 <br />
 
 #### To obtain the block address of the document
+
 ```
 SELECT m.metadata.CustomerId, m.blockAddress
 FROM _ql_committed_myCustomers AS m
