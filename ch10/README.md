@@ -28,4 +28,6 @@ For these mismatched suburbs, find the closest match based on the NSW Post Code.
 
 Please update the mismatched suburbs in the Sales_Transactions.xlsx file based on the closest match. Kindly show the transactions in table format when completed.
 
+Please export the updated Sales_Transactions.xlsx file reflecting the changes made.
+
 ```
