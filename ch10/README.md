@@ -82,4 +82,10 @@ Please calculate the Sales column by multiplying the Quantity column with the Pr
 
 Please check the Quantity column in the 2022 Transactions.xlsx file to see if there are any outliers.
 
+Reviewing the Quantity column, please list in table format the top 20 transactions with the highest quantities.
+
+I reviewed the invoice for Transaction Number 22022110029. The quantity should only be 120. Please update it and show me the updated columns for this transaction.
+
+Please review the Currency column and Price column in the 2022 Transactions.xlsx file with the Sales Price.xlsx file. If there are inconsistencies, please list them in table format and add a column for the price difference.
+
 ```
