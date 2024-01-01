@@ -18,13 +18,13 @@ This chapter teachers the reader how to use managed ledger databases to enforce 
 INSERT INTO "myCustomers" `{"CustomerName":"John Ryan","CustomerId":"S0001", "CustomerAddress": "55 Prairie, Lincoln Drive 20502", "Loans":{"Student":10000}}`;
 ```
 
-<br />
+
 
 #### Viewing the data in the table
 ```
 SELECT * FROM myCustomers;
 ```
-<br />
+
 
 #### Adding records to the table
 ```
@@ -32,7 +32,7 @@ INSERT INTO "myCustomers" `{"CustomerName":"Jack Kane","CustomerId":"S0002", "Cu
 INSERT INTO "myCustomers" `{"CustomerName":"Winnie Li","CustomerId":"S0003", "CustomerAddress": "86 Wonder Road, Sunrise Drive 20238", "Loans":{"Home":35000}}`;
 ```
 
-<br />
+
 
 #### To obtain the block address of the document
 
@@ -41,7 +41,7 @@ SELECT m.metadata.CustomerId, m.blockAddress
 FROM _ql_committed_myCustomers AS m
 WHERE m.data.CustomerId = 'S0001'
 ```
-<br />
+
 
 #### Updating the transaction
 ```
@@ -50,14 +50,13 @@ SET m.Loans.Car = 5000
 WHERE m.CustomerId = 'S0001'
 ```
 
-<br />
+
 
 #### Deleting records from the ledger
 ```
 DELETE FROM myCustomers;
 ```
 
-<br />
 
 #### Working with history and data
 ```
