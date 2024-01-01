@@ -38,4 +38,14 @@ Please analyze what this file contains and provide information as to the data st
 
 Give me a preview of the data in the file.
 
+Please provide the basic statistics such as the number of transactions in the file, as well as the number of unique and distinct transactions for each column.
+
+Please check the Transaction ID column and identify if there are any transactions that are repeated.
+
+Can you show the duplicate rows in the dataset?
+
+Please remove the duplicate rows identified then provide the total distinct and unique transactions for the Transaction ID column.
+
+Please provide the details of the transaction or transactions which do not have a date in the year 2020.
+
 ```
