@@ -54,4 +54,8 @@ Review the Product_ID and Sales_Manager columns to see if there are any unusual 
 
 Provide the details of the top 10 transactions with the highest quantities.
 
+For Transaction ID 2020644, update the Quantity to 200 and show the updated details.
+
+Export the cleaned data to an Excel file.
+
 ```
