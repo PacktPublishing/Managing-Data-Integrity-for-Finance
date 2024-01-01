@@ -41,8 +41,8 @@ SELECT m.metadata.CustomerId, m.blockAddress
 FROM _ql_committed_myCustomers AS m
 WHERE m.data.CustomerId = 'S0001'
 ```
-
 <br />
+
 #### Updating the transaction
 ```
 UPDATE myCustomers AS m
