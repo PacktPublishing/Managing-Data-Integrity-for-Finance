@@ -19,7 +19,6 @@ This book covers the following exciting features:
 
 If you feel this book is for you, get your [copy](https://www.amazon.in/Managing-Data-Integrity-Finance-professionals-ebook/dp/B0CN7DGY92/ref=sr_1_1?keywords=Managing+Data+Integrity+for+Finance&sr=8-1) today!
 
-<a href="https://www.packtpub.com/product/managing-data-integrity-for-finance/9781837630141"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" alt="https://www.packtpub.com/" border="5" /></a>
 
 ## Instructions and Navigations
 All of the code is organized into folders.
