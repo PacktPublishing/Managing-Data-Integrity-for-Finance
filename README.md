@@ -46,9 +46,9 @@ With the following software and hardware list you can run all code files present
 
 
 ### Related products <Other books you may enjoy>
-* Driving Data Quality with Data Contracts  [[Packt]](https://www.packtpub.com/product/driving-data-quality-with-data-contracts/9781837635009) [[Amazon]](https://www.amazon.in/Driving-Data-Quality-Contracts-comprehensive/dp/1837635005/ref=tmm_pap_swatch_0?_encoding=UTF8&sr=8-1)
+* Driving Data Quality with Data Contracts  [[Packt]](https://www.packtpub.com/product/driving-data-quality-with-data-contracts/9781837635009) [[Amazon]](https://www.amazon.com/Driving-Data-Quality-Contracts-comprehensive/dp/1837635005/)
   
-* Practical Data Quality  [[Packt]](https://www.packtpub.com/product/practical-data-quality/9781804610787) [[Amazon]](https://www.amazon.in/Practical-Data-Quality-real-world-organization/dp/180461078X/ref=tmm_pap_swatch_0?_encoding=UTF8&sr=8-2)
+* Practical Data Quality  [[Packt]](https://www.packtpub.com/product/practical-data-quality/9781804610787) [[Amazon]](https://www.amazon.com/Practical-Data-Quality-real-world-organization/dp/180461078X)
   
 ## Get to Know the Author
 **Jane Sarah** Lat is a finance professional with over 14 years of experience in financial management and analysis for multiple blue-chip multinational organizations. In addition to being a **Certified Management Accountant (CMA U.S.)** and having a **Graduate Diploma in Chartered Accounting (GradDipCA)**, she also holds various technical certifications, including Microsoft Certified Data Analyst Associate and Advanced Proficiency in KNIME Analytics Platform. Over the past few years, she has been sharing her experience and expertise at international conferences to discuss practical strategies on finance, data analysis, and management accounting. She is also the President of the **Institute of Management Accountants (IMA)** Australia and New Zealand chapter.
