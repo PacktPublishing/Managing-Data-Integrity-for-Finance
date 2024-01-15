@@ -21,3 +21,15 @@ This chapter dives deep into how specific SQL and database techniques prevent tr
 <br />
 
 ## Code blocks specific to the chapter
+
+#### Create the tickets table
+```
+CREATE TABLE tickets(
+	id SERIAL PRIMARY KEY,
+	event_name VARCHAR(255) NOT NULL,
+	ticket_price DECIMAL(10,2) NOT NULL,
+	is_booked BOOLEAN NOT NULL DEFAULT FALSE
+);
+```
+
+
