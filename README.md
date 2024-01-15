@@ -38,7 +38,7 @@ With the following software and hardware list you can run all code files present
 
 ### Software and Hardware List
 
-| Chapter  | Software required                                                                    | OS required                        |
+| Chapters  | Software required                                                                    | OS required                        |
 | -------- | -------------------------------------------------------------------------------------| -----------------------------------|
 |  	4-6	   |    Microsoft Power BI Desktop                                                      | Windows (preferred) | 		
 |  	4-6	   |   Tableau, Tableau Prep Builder, and Tableau Cloud                                 | Windows (preferred) | 		
