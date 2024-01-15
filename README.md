@@ -7,7 +7,7 @@ This is the code repository for [Managing Data Integrity for Finance](https://ww
 **Discover practical data quality management strategies for finance analysts and data professionals** <br />
 
 ## What is this book about?
-Data integrity management plays a critical role in the success and effectiveness of organizations trying to use financial and operational data to make business decisions. Unfortunately, there is a big gap between the analysis and management of finance data along with the proper implementation of complex data systems across various organizations.
+Data integrity management plays a critical role in the success and effectiveness of organizations trying to use financial and operational data to make business decisions. Unfortunately, there is a big gap when it comes to the analysis and management of finance data along with the proper implementation of complex data systems across various organizations.
 
 This book covers the following exciting features: 
 * Develop a customized financial data quality scorecard
@@ -51,4 +51,4 @@ With the following software and hardware list you can run all code files present
 * Practical Data Quality  [[Packt]](https://www.packtpub.com/product/practical-data-quality/9781804610787) [[Amazon]](https://www.amazon.in/Practical-Data-Quality-real-world-organization/dp/180461078X/ref=tmm_pap_swatch_0?_encoding=UTF8&sr=8-2)
   
 ## Get to Know the Author
-**Jane Sarah** Lat is a commercially astute and globally experienced finance professional with more than a decade of experience in financial management and analysis. She has a background working for blue-chip multinational organizations such as Verizon, TTEC, Chevron, and Ernst & Young. Driven by her passion for upskilling with analytic capabilities, she became a Microsoft Certified Data Analyst Associate and TIBCO Certified Professional on Spotfire. These past few years, she has been sharing her knowledge and experience at international conferences and events to discuss practical strategies on finance, data analysis, management, and accounting.
+**Jane Sarah** Lat is a finance professional with over 14 years of experience in financial management and analysis for multiple blue-chip multinational organizations. In addition to being a **Certified Management Accountant (CMA U.S.)** and having a **Graduate Diploma in Chartered Accounting (GradDipCA)**, she also holds various technical certifications, including Microsoft Certified Data Analyst Associate and Advanced Proficiency in KNIME Analytics Platform. Over the past few years, she has been sharing her experience and expertise at international conferences to discuss practical strategies on finance, data analysis, and management accounting. She is also the President of the **Institute of Management Accountants (IMA)** Australia and New Zealand chapter.
