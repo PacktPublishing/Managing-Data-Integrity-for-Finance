@@ -30,7 +30,7 @@ VALUES (1, 100.00);
 ```
 
 When we wish to draw your attention to a particular part of a code block, the relevant lines or items are set in bold:
-<pre></pre>
+<pre>
 CREATE TABLE Accounts (
     AccountID int,
     CustomerName varchar(100),
