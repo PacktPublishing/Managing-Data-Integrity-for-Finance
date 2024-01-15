@@ -12,6 +12,22 @@ This chapter teaches you how to use managed ledger databases to enforce data int
 <br />
 
 ## Links and Files
+- https://www.youtube.com/watch?v=a9__D53WsUs
+- https://aws.amazon.com/qldb/customers/
+- https://en.wikipedia.org/wiki/Merkle_tree
+- https://aws.amazon.com/
+- https://docs.aws.amazon.com/AmazonS3/latest/userguide/bucketnamingrules.html
+- https://aws.amazon.com/blogs/opensource/announcing-partiql-one-query-language-for-all-your-data/
+- https://docs.aws.amazon.com/qldb/latest/developerguide/working.redaction.html
+- https://docs.aws.amazon.com/qldb/latest/developerguide/what-is.overview.html
+- https://docs.aws.amazon.com/cost-management/latest/userguide/what-is-costmanagement.html
+- https://docs.aws.amazon.com/qldb/latest/developerguide/what-is.html
+- https://docs.aws.amazon.com/qldb/latest/developerguide/what-is.relational-ledger.html
+- https://docs.aws.amazon.com/qldb/latest/developerguide/qldb-glossary.html
+- https://docs.aws.amazon.com/qldb/latest/developerguide/verification.html
+- https://docs.aws.amazon.com/qldb/latest/developerguide/working.history.html
+- https://docs.aws.amazon.com/qldb/latest/developerguide/working.optimize.html
+- https://aws.amazon.com/qldb/pricing/
 <br />
 
 ## Versions of the tools used
