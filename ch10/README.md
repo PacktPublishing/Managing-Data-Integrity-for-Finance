@@ -19,7 +19,11 @@ This chapter exposes you to artificial intelligence solutions relevant to data q
 
 #### Files for hands-on exercises
 - [2020_Transactions.xlsx](https://github.com/PacktPublishing/Managing-Data-Integrity-for-Finance/blob/main/ch10/2020_Transactions.xlsx)
-- 
+- [2022 Transactions.xlsx](https://github.com/PacktPublishing/Managing-Data-Integrity-for-Finance/blob/main/ch10/2022%20Transactions.xlsx)
+- [NSW_Post_Code.xlsx](https://github.com/PacktPublishing/Managing-Data-Integrity-for-Finance/blob/main/ch10/NSW_Post_Code.xlsx)
+- [Products.xlsx](https://github.com/PacktPublishing/Managing-Data-Integrity-for-Finance/blob/main/ch10/Products.xlsx)
+- [Sales Price.xlsx](https://github.com/PacktPublishing/Managing-Data-Integrity-for-Finance/blob/main/ch10/Sales%20Price.xlsx)
+- [Sales_Transactions.xlsx](https://github.com/PacktPublishing/Managing-Data-Integrity-for-Finance/blob/main/ch10/Sales_Transactions.xlsx)
 #### Further reading
 - https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/the-economic-potential-of-generative-ai-the-next-productivity-frontier
 - https://www.gartner.com/en/topics/generative-ai
