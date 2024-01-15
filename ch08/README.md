@@ -97,3 +97,26 @@ $$ LANGUAGE plpgsql;
 SELECT * FROM tickets;
 
 </pre>
+
+#### Steps for Person A with row-level lock
+<pre>
+CREATE OR REPLACE FUNCTION update_ticket_price1()
+RETURNS VOID AS $$
+DECLARE
+	price1 DECIMAL(10,2);
+
+BEGIN
+	SELECT ticket_price INTO price1 FROM tickets
+WHERE id = 3 <b>FOR UPDATE</b>;
+
+PERFORM pg_sleep(30);
+
+price1 := price1 + 10;
+
+UPDATE tickets SET ticket_price = price1 WHERE id=3;
+END;
+$$ LANGUAGE plpgsql;
+
+SELECT update_ticket_price1(); 
+SELECT * FROM tickets;
+</pre>
