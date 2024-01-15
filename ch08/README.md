@@ -44,3 +44,55 @@ INSERT INTO tickets (event_name, ticket_price) VALUES
 	('Concert B', 75.00),
 	('Conference X', 100.00);
 ```
+
+#### Reviewing if the data has been inserted into the table
+```
+SELECT * FROM tickets;
+```
+
+#### Steps for Person A without row-level lock
+```
+CREATE OR REPLACE FUNCTION update_ticket_price1()
+RETURNS VOID AS $$
+DECLARE
+	price1 DECIMAL(10,2);
+
+BEGIN
+	SELECT ticket_price INTO price1 FROM tickets
+WHERE id = 3;
+
+PERFORM pg_sleep(30);
+
+price1 := price1 + 10;
+
+UPDATE tickets SET ticket_price = price1 WHERE id=3;
+END;
+$$ LANGUAGE plpgsql;
+
+SELECT update_ticket_price1();
+SELECT * FROM tickets;
+```
+
+#### Steps for Person B without row-level lock
+```
+CREATE OR REPLACE FUNCTION update_ticket_price2()
+RETURNS VOID AS $$
+DECLARE
+	price2 DECIMAL(10,2);
+
+BEGIN
+	SELECT ticket_price INTO price2 FROM tickets 
+WHERE id = 3;
+
+PERFORM pg_sleep(30);
+
+price2 := price2 + 15;
+
+UPDATE tickets SET ticket_price = price2 WHERE id = 3;
+END;
+$$ LANGUAGE plpgsql;
+
+SELECT update_ticket_price2();
+SELECT * FROM tickets;
+
+```
