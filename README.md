@@ -30,13 +30,13 @@ VALUES (1, 100.00);
 ```
 
 When we wish to draw your attention to a particular part of a code block, the relevant lines or items are set in bold:
-```
+<pre></pre>
 CREATE TABLE Accounts (
     AccountID int,
     CustomerName varchar(100),
     <b>Balance decimal(10, 2) CHECK (Balance >= 0)<b>
 );
-```
+</pre>
 
 **Following is what you need for this book:**
 This book is intended for financial analysts, technical leaders, and data analysts interested in learning practical strategies for managing data integrity and data quality using relevant solutions, tools, and strategies.
