@@ -60,40 +60,40 @@ Please export the updated <b>Sales_Transactions.xlsx</b> file reflecting the cha
 </pre>
 
 #### Detecting anomalies in financial transaction data (second hands-on exercise)
-```
+<pre>
 Please analyze what this file contains and provide information as to the data structure and type of data it has.
 
 Give me a preview of the data in the file.
 
-Please provide the basic statistics such as the number of transactions in the file, as well as the number of unique and distinct transactions for each column.
+Please provide the basic statistics such as the number of transactions in the file, as well as the number of <b>unique</b> and <b>distinct</b> transactions for each column.
 
-Please check the Transaction ID column and identify if there are any transactions that are repeated.
+Please check the <b>Transaction ID</b> column and identify if there are any transactions that are repeated.
 
 Can you show the duplicate rows in the dataset?
 
-Please remove the duplicate rows identified then provide the total distinct and unique transactions for the Transaction ID column.
+Please remove the <b>duplicate</b> rows identified then provide the total distinct and unique transactions for the <b>Transaction ID</b> column.
 
-Please provide the details of the transaction or transactions which do not have a date in the year 2020.
+Please provide the details of the transaction or transactions which do not have a date in the year <b>2020</b>.
 
-Please update the year to 2020 for the Transaction Date and show the updated fields for this transaction.
+Please update the year to <b>2020</b> for the Transaction Date and show the updated fields for this transaction.
 
-Review the Product_ID and Sales_Manager columns to see if there are any unusual values.
+Review the <b>Product_ID</b> and <b>Sales_Manager</b> columns to see if there are any unusual values.
 
-Provide the details of the top 10 transactions with the highest quantities.
+Provide the details of the <b>top 10</b> transactions with the highest quantities.
 
-For Transaction ID 2020644, update the Quantity to 200 and show the updated details.
+For <b>Transaction ID 2020644</b>, update the Quantity to 200 and show the updated details.
 
 Export the cleaned data to an Excel file.
 
-Using the original dataset uploaded, create a scatter chart with sum of quantity on the Y-axis and the months on the X-axis.
+Using the original dataset uploaded, create a <b>scatter chart</b> with sum of quantity on the Y-axis and the months on the X-axis.
 
-Using the original dataset, create a histogram using the quantity column with bin size of 1,553.
+Using the original dataset, create a <b>histogram</b> using the quantity column with bin size of 1,553.
 
 Under which buckets do our values fall? Include the number of entries to understand the distribution.
 
-Using the cleaned data, create a histogram with a bin size of 100 based on the Quantity column.
+Using the cleaned data, create a histogram with a bin size of 100 based on the <b>Quantity</b> column.
 
-```
+</pre>
 
 #### Handling missing financial reporting data with AI (third hands-on exercise)
 ```
