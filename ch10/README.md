@@ -25,6 +25,10 @@ This chapter exposes you to artificial intelligence solutions relevant to data q
 - https://www.bcg.com/publications/2023/generative-ai-in-finance-and-accounting
 <br />
 
+## Versions of the tools used
+- A **ChatGPT Plus** account
+- **Microsoft Excel** `2016` version or later
+
 ## Code blocks specific to the chapter
 #### How we can use ChatGPT for data integrity
 ```
