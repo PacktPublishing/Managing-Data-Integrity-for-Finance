@@ -96,32 +96,33 @@ Using the cleaned data, create a histogram with a bin size of 100 based on the <
 </pre>
 
 #### Handling missing financial reporting data with AI (third hands-on exercise)
-```
+<pre>
 Please examine the contents of these three files and provide information as to their data structure and the type of data that they contain.
 
-For the 2022 Transactions.xlsx file, please check for possible duplicate transactions using the Transaction Number.
+For the 2022 Transactions.xlsx file, please check for possible duplicate transactions using the <b>Transaction Number</b>.
 
-Can you check each of the columns in the 2022 Transactions.xlsx file for any missing values?
+Can you check each of the columns in the 2022 Transactions.xlsx file for any <b>missing values</b>?
 
 Can you please list the transactions with the missing values in table format?
 
-Please calculate the Sales column by multiplying the Quantity column with the Price column. Update the data and list the transactions updated in table format.
+Please calculate the Sales column by multiplying the <b>Quantity</b> column with the <b>Price</b> column. Update the data and list the transactions updated in table format.
 
-Please check the Quantity column in the 2022 Transactions.xlsx file to see if there are any outliers.
+Please check the <b>Quantity</b> column in the 2022 Transactions.xlsx file to see if there are any outliers.
 
-Reviewing the Quantity column, please list in table format the top 20 transactions with the highest quantities.
+Reviewing the <b>Quantity</b> column, please list in table format the top 20 transactions with the highest quantities.
 
-I reviewed the invoice for Transaction Number 22022110029. The quantity should only be 120. Please update it and show me the updated columns for this transaction.
+I reviewed the invoice for <b>Transaction Number 22022110029</b>. The quantity should only be <b>120</b>. Please update it and show me the updated columns for this transaction.
 
-Please review the Currency column and Price column in the 2022 Transactions.xlsx file with the Sales Price.xlsx file. If there are inconsistencies, please list them in table format and add a column for the price difference.
+Please review the <b>Currency</b> column and <b>Price</b> column in the <b>2022 Transactions.xlsx</b> file with the <b>Sales Price.xlsx</b> file. If there are inconsistencies, please list them in table format and add a column for the price difference.
 
-Get the Quantity column for each of the transactions above and use this to calculate the total price difference. List them in a table format and include an overall total as well.
+Get the <b>Quantity</b> column for each of the transactions above and use this to calculate the total price difference. List them in a <b>table format</b> and include an overall total as well.
 
-Calculate the sales for each product key in the 2022 Transactions.xlsx file and match it with the Products.xlsx file.
+Calculate the total sales for <b>each Product key</b> in the 2022 Transactions.xlsx file and match it with the Products.xlsx file.
 
-Please update the Products.xlsx file with the details of the Product Key 8 to Calculator.
+Can we make sure that all the products sold found in the <b>2022 Transactions.xlsx</b> file are in the <b>Products.xlsx</b> file?
 
-Please export the updated 2022 Transactions.xlsx file which reflects the changes we have made.
+Please update the Products.xlsx file with the details of the <b>Product Key 8</b> to <b>Calculator</b>.
 
+Please export the <b>updated</b> 2022 Transactions.xlsx file which reflects the changes we have made.
 
-```
+</pre>
