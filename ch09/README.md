@@ -14,6 +14,10 @@ This chapter teaches you how to use managed ledger databases to enforce data int
 ## Links and Files
 <br />
 
+## Versions of the tools used
+- A web browser
+- Any text editor (such as Notepad or Sublime Text)
+
 ## Code blocks specific to the chapter
 #### Generating a document
 ```
