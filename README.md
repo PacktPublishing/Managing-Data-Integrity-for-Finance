@@ -38,11 +38,11 @@ With the following software and hardware list you can run all code files present
 
 ### Software and Hardware List
 
-| Chapters  | Software required                                                                    | OS required                        |
-| -------- | -------------------------------------------------------------------------------------| -----------------------------------|
-|  	4-6	   |    Microsoft Power BI Desktop                                                      | Windows (preferred) | 		
-|  	4-6	   |   Tableau, Tableau Prep Builder, and Tableau Cloud                                 | Windows (preferred) | 		
-|  	4-6	   |   Alteryx Designer                      			                       			          | Windows (preferred) | 		
+| Software required                                                                    | OS required                        |
+| -------------------------------------------------------------------------------------| -----------------------------------|
+|    Microsoft Power BI Desktop                                                      | Windows (preferred) | 		
+|   Tableau, Tableau Prep Builder, and Tableau Cloud                                 | Windows (preferred) | 		
+|   Alteryx Designer                      			                       			          | Windows (preferred) | 		
 
 
 ### Related products <Other books you may enjoy>
