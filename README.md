@@ -4,7 +4,7 @@
 
 This is the code repository for [Managing Data Integrity for Finance](https://www.packtpub.com/product/managing-data-integrity-for-finance/9781837630141), published by Packt.
 
-**Discover practical data quality management strategies for finance analysts and data professionals	**
+**Discover practical data quality management strategies for finance analysts and data professionals	** <br />
 
 ## What is this book about?
 Data integrity management plays a critical role in the success and effectiveness of organizations trying to use financial and operational data to make business decisions. Unfortunately, there is a big gap between the analysis and management of finance data along with the proper implementation of complex data systems across various organizations.
