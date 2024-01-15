@@ -49,10 +49,10 @@ SELECT * FROM myCustomers;
 
 
 #### Adding records to the table
-```
-INSERT INTO "myCustomers" `{"CustomerName":"Jack Kane","CustomerId":"S0002", "CustomerAddress": "77 Shawn St, Bradley Drive 20206", "Loans":{"Car":45000}}`;
-INSERT INTO "myCustomers" `{"CustomerName":"Winnie Li","CustomerId":"S0003", "CustomerAddress": "86 Wonder Road, Sunrise Drive 20238", "Loans":{"Home":35000}}`;
-```
+<pre>
+INSERT INTO "myCustomers" `{"CustomerName":<b>"Jack Kane"</b>,"CustomerId":"S0002", "CustomerAddress": "77 Shawn St, Bradley Drive 20206", "Loans":{"Car":45000}}`;
+INSERT INTO "myCustomers" `{"CustomerName":<b>"Winnie Li"</b>,"CustomerId":"S0003", "CustomerAddress": "86 Wonder Road, Sunrise Drive 20238", "Loans":{"Home":35000}}`;
+</pre>
 
 
 
@@ -81,17 +81,17 @@ DELETE FROM myCustomers;
 
 
 #### Working with history and data (history)
-```
-SELECT * FROM history(myCustomers);
-```
+<pre>
+SELECT * FROM <b>history(myCustomers)</b>;
+</pre>
 #### Working with history and data (data)
-```
-SELECT data FROM history(myCustomers);
-```
+<pre>
+SELECT <b>data</b> FROM history(myCustomers);
+</pre>
 
 #### Inserting the initial records again
-```
-INSERT INTO "myCustomers" `{"CustomerName":"John Ryan","CustomerId":"S0001", "CustomerAddress": "55 Prairie, Lincoln Drive 20502", "Loans":{"Student":10000,"Car":5000}}`;
-INSERT INTO "myCustomers" `{"CustomerName":"Jack Kane","CustomerId":"S0002", "CustomerAddress": "77 Shawn St, Bradley Drive 20206", "Loans":{"Car":45000}}`;
-INSERT INTO "myCustomers" `{"CustomerName":"Winnie Li","CustomerId":"S0003", "CustomerAddress": "86 Wonder Road, Sunrise Drive 20238", "Loans":{"Home":350000}}`;
-```
+<pre>
+INSERT INTO "myCustomers" `{"CustomerName":<b>"John Ryan"</b>,"CustomerId":"S0001", "CustomerAddress": "55 Prairie, Lincoln Drive 20502", "Loans":{"Student":10000,"Car":5000}}`;
+INSERT INTO "myCustomers" `{"CustomerName":<b>"Jack Kane"</b>,"CustomerId":"S0002", "CustomerAddress": "77 Shawn St, Bradley Drive 20206", "Loans":{"Car":45000}}`;
+INSERT INTO "myCustomers" `{"CustomerName":<b>"Winnie Li"</b>,"CustomerId":"S0003", "CustomerAddress": "86 Wonder Road, Sunrise Drive 20238", "Loans":{"Home":350000}}`;
+</pre>
