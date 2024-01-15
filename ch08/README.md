@@ -52,7 +52,7 @@ SELECT * FROM tickets;
 ```
 
 #### Steps for Person A without row-level lock
-```
+<pre>
 CREATE OR REPLACE FUNCTION update_ticket_price1()
 RETURNS VOID AS $$
 DECLARE
@@ -70,12 +70,12 @@ UPDATE tickets SET ticket_price = price1 WHERE id=3;
 END;
 $$ LANGUAGE plpgsql;
 
-SELECT update_ticket_price1();
+<b>SELECT update_ticket_price1(); </b>
 SELECT * FROM tickets;
-```
+</pre>
 
 #### Steps for Person B without row-level lock
-<pre></pre>
+<pre>
 CREATE OR REPLACE FUNCTION update_ticket_price2()
 RETURNS VOID AS $$
 DECLARE
