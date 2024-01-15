@@ -25,18 +25,25 @@ All of the code is organized into folders.
 
 The code will look like the following:
 ```
+INSERT INTO Accounts (AccountID, Balance)
+VALUES (1, 100.00);
+```
+
+When we wish to draw your attention to a particular part of a code block, the relevant lines or items are set in bold:
+```
 CREATE TABLE Accounts (
     AccountID int,
     CustomerName varchar(100),
-    Balance decimal(10, 2) CHECK (Balance >= 0)
+    **Balance decimal(10, 2) CHECK (Balance >= 0)**
 );
-```
+
 **Following is what you need for this book:**
 This book is intended for financial analysts, technical leaders, and data analysts interested in learning practical strategies for managing data integrity and data quality using relevant solutions, tools, and strategies.
 
 With the following software and hardware list you can run all code files present in the book (Chapter 1-10).
 
 ### Software and Hardware List
+You are expected to have a basic understanding of concepts relating to finance, accounting, and data analysis. Basic knowledge of finance management is not required but will help with grasping the intermediate topics of the book.
 
 | Software required                                                                    | OS required                        |
 | -------------------------------------------------------------------------------------| -----------------------------------|
