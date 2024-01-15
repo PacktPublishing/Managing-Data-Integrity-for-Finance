@@ -36,6 +36,7 @@ CREATE TABLE Accounts (
     CustomerName varchar(100),
     **Balance decimal(10, 2) CHECK (Balance >= 0)**
 );
+```
 
 **Following is what you need for this book:**
 This book is intended for financial analysts, technical leaders, and data analysts interested in learning practical strategies for managing data integrity and data quality using relevant solutions, tools, and strategies.
