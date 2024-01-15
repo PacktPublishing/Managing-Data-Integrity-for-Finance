@@ -34,7 +34,7 @@ When we wish to draw your attention to a particular part of a code block, the re
 CREATE TABLE Accounts (
     AccountID int,
     CustomerName varchar(100),
-    <b>Balance decimal(10, 2) CHECK (Balance >= 0)<b>
+    <b>Balance decimal(10, 2) CHECK (Balance >= 0) </b>
 );
 </pre>
 
