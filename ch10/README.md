@@ -12,6 +12,17 @@ This chapter exposes you to artificial intelligence solutions relevant to data q
 <br />
 
 ## Links and Files
+
+- https://chat.openai.com/auth/login
+- https://chat.openai.com/g/g-HMNcP6w7d-data-analysis
+- https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/the-economic-potential-of-generative-ai-the-next-productivity-frontier
+- https://www.gartner.com/en/topics/generative-ai
+- https://365datascience.com/trending/chatgpt-code-interpreter-what-it-is-and-how-it-works/
+- https://www.forbes.com/sites/bernardmarr/2023/02/07/will-chatgpt-put-data-analysts-out-of-work/?sh=250f2e254030
+- https://www.forbes.com/sites/jackmccullough/2023/08/21/embracing-generative-ai-opportunities-and-risks-for-cfos/?sh=2fffb5c257f7
+- https://openai.com/blog/introducing-gpts
+- https://help.openai.com/en/articles/8555545-file-uploads-with-gpts-and-advanceddata-analysis-in-chatgpt
+- https://www.bcg.com/publications/2023/generative-ai-in-finance-and-accounting
 <br />
 
 ## Code blocks specific to the chapter
