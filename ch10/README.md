@@ -3,7 +3,7 @@
 <a href="https://www.packtpub.com/product/managing-data-integrity-for-finance/9781837630141"><img src="https://content.packt.com/B19758/cover_image_small.jpg" alt="Book Name" height="120px" align="left" style="margin: 0px 15px; border-color: white; border-style: solid; border-width: 1px;"></a>
 
 **Chapter 10: Using Artificial Intelligence for Finance Data Quality Management** <br />
-This chapter exposes the reader to artificial intelligence solutions relevant to data quality and data integrity management.
+This chapter exposes you to artificial intelligence solutions relevant to data quality and data integrity management.
 
 <br />
 <br />
