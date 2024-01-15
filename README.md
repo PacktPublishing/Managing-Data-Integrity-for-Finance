@@ -1,6 +1,6 @@
 # Managing Data Integrity for Finance
 
-<a href="https://www.packtpub.com/product/managing-data-integrity-for-finance/9781837630141"><img src="https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/81BC5LxMlpL._SL1500_.jpg" alt="Managing Data Integrity for Finance" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/product/managing-data-integrity-for-finance/9781837630141"><img src="https://content.packt.com/B19758/cover_image_small.jpg" alt="Managing Data Integrity for Finance" height="256px" align="right"></a>
 
 This is the code repository for [Managing Data Integrity for Finance](https://www.packtpub.com/product/managing-data-integrity-for-finance/9781837630141), published by Packt.
 
