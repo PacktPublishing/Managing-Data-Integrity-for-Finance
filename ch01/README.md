@@ -3,7 +3,7 @@
 <a href="https://www.packtpub.com/product/managing-data-integrity-for-finance/9781837630141"><img src="https://content.packt.com/B19758/cover_image_small.jpg" alt="Book Name" height="120px" align="left" style="margin: 0px 15px; border-color: white; border-style: solid; border-width: 1px;"></a>
 
 **Chapter 1: Recognizing the Importance of Data Integrity in Finance** <br />
-This chapter gives the reader a quick overview of the concepts relevant to the succeeding chapters in the book.
+This chapter gives you a quick overview of the concepts relevant to the succeeding chapters in the book.
 
 <br />
 <br />
