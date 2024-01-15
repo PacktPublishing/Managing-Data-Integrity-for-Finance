@@ -1,5 +1,7 @@
 # Managing Data Integrity for Finance
 
+<a href="https://www.packtpub.com/product/managing-data-integrity-for-finance/9781837630141"><img src="https://content.packt.com/B19758/cover_image_small.jpg" alt="Book Name" height="120px" align="left" style="margin: 0px 15px; border-color: white; border-style: solid; border-width: 1px;"></a>
+
 **Chapter 3: Measuring the Impact of Data Integrity Issues** <br />
 This chapter teaches the reader how to develop and generate data quality scorecards using a framework.
 
