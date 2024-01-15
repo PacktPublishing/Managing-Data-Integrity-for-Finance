@@ -32,7 +32,7 @@ CREATE TABLE Accounts (
 );
 ```
 **Following is what you need for this book:**
-This book is for financial analysts, technical leaders, and data professionals interested in learning practical strategies for managing data integrity and data quality using relevant frameworks and tools. A basic understanding of finance concepts, accounting, and data analysis is expected. Knowledge of finance management is not a prerequisite, but it’ll help you grasp the more advanced topics covered in this book.
+This book is intended for financial analysts, technical leaders, and data analysts interested in learning practical strategies for managing data integrity and data quality using relevant solutions, tools, and strategies.
 
 With the following software and hardware list you can run all code files present in the book (Chapter 1-10).
 
