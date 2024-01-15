@@ -21,6 +21,9 @@ This chapter dives deep into how specific SQL and database techniques prevent tr
 
 <br />
 
+## Versions of the tools used
+- **PostgreSQL** - `v15` or later
+
 ## Code blocks specific to the chapter
 
 #### Creating the "tickets" table
