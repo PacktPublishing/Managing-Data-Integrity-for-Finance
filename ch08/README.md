@@ -14,6 +14,7 @@ This chapter dives deep into how specific SQL and database techniques prevent tr
 ## Links and Files
 
 - https://www.postgresql.org/download/
+- https://www.postgresqltutorial.com/postgresql-plpgsql/introduction-to-postgresql-stored-procedures/
 - https://www.postgresql.org/docs/current/explicit-locking.html
 - https://www.postgresql.org/about/
 - https://www.postgresqltutorial.com/
