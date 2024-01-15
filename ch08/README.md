@@ -93,7 +93,7 @@ UPDATE tickets SET ticket_price = price2 WHERE id = 3;
 END;
 $$ LANGUAGE plpgsql;
 
-<b>SELECT update_ticket_price2(); <b>
+<b>SELECT update_ticket_price2(); </b>
 SELECT * FROM tickets;
 
 </pre>
