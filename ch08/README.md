@@ -22,7 +22,7 @@ This chapter dives deep into how specific SQL and database techniques prevent tr
 
 ## Code blocks specific to the chapter
 
-#### To create the tickets table
+#### Creating the "tickets" table
 ```
 CREATE TABLE tickets(
 	id SERIAL PRIMARY KEY,
@@ -32,8 +32,15 @@ CREATE TABLE tickets(
 );
 ```
 
-##### To check if the table has been created
+#### Checking if the table has been created
 ```
 SELECT * FROM tickets;
 ```
 
+#### Inserting data into the table
+```
+INSERT INTO tickets (event_name, ticket_price) VALUES
+	('Concert A', 50.00),
+	('Concert B', 75.00),
+	('Conference X', 100.00);
+```
