@@ -13,8 +13,8 @@ This chapter dives deep into how specific SQL and database techniques prevent tr
 
 ## Links and Files
 
-- [https://en.wikipedia.org/wiki/Levenshtein_distance](https://www.postgresql.org/download/)
-- [https://www.postgresql.org/docs/current/explicit-locking.html](https://www.postgresql.org/docs/current/explicit-locking.html)
+- https://www.postgresql.org/download/
+- https://www.postgresql.org/docs/current/explicit-locking.html
 - https://www.postgresql.org/about/
 - https://www.postgresqltutorial.com/
 
