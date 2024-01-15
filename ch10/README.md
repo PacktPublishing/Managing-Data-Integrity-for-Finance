@@ -13,8 +13,14 @@ This chapter exposes you to artificial intelligence solutions relevant to data q
 
 ## Links and Files
 
+#### ChatGPT
 - https://chat.openai.com/auth/login
 - https://chat.openai.com/g/g-HMNcP6w7d-data-analysis
+
+#### Files for hands-on exercises
+- [2020_Transactions.xlsx](https://github.com/PacktPublishing/Managing-Data-Integrity-for-Finance/blob/main/ch10/2020_Transactions.xlsx)
+- 
+#### Further reading
 - https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/the-economic-potential-of-generative-ai-the-next-productivity-frontier
 - https://www.gartner.com/en/topics/generative-ai
 - https://365datascience.com/trending/chatgpt-code-interpreter-what-it-is-and-how-it-works/
