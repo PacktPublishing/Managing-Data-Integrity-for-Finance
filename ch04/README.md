@@ -21,6 +21,12 @@ This chapter focuses on the common data quality capabilities of business intelli
 - https://www.alteryx.com/
 - https://www.alteryx.com/sparked
 - https://www.alteryx.com/products/alteryx-designer
+- https://www.gartner.com/doc/reprints?id=1-2D773G95&ct=230411&st=sb
+- https://powerbi.microsoft.com/en-in/blog/microsoft-named-a-leader-in-the-2023-gartner-magic-quadrant-for-analytics-and-bi-platforms/
+- https://www.tableau.com/blog/tableau-leader-gartner-magic-quadrant-analytics-business
+- https://www.alteryx.com/glossary/data-profiling
+- https://help.tableau.com/current/prep/en-us/prep_validate_data.htm
+- https://www.tableau.com/learn/articles/what-is-data-governance
 
 <br />
 
