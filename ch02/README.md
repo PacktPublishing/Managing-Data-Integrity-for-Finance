@@ -28,19 +28,19 @@ VALUES (1, 100.00);
 
 #### UNIQUE constraint
 
-```
+<pre>
 CREATE TABLE Customers (
     CustomerID int,
     Name varchar(100),
-    Email varchar(100) UNIQUE
+    <b>Email varchar(100) UNIQUE</b>
 ); 
 
 INSERT INTO Customers (CustomerID, Name, Email)
-VALUES (1, 'Jane Lat', 'jane@example.com');
+VALUES (1, 'Jane Lat', <b>'jane@example.com'</b>);
 
 INSERT INTO Customers (CustomerID, Name, Email)
-VALUES (2, 'Jane Sarah', 'jane@example.com'); 
-```
+VALUES (2, 'Jane Sarah', <b>'jane@example.com'</b>); 
+</pre>
 
 
 #### FOREIGN KEY constraint
