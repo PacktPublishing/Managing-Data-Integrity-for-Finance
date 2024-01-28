@@ -14,16 +14,16 @@ This chapter dives deep into the data integrity issues and challenges faced by d
 ## Implementing preventative measures and constraints when using databases such as PostgreSQL
 #### NOT NULL constraint
 
-```
+<pre>
 CREATE TABLE Accounts (
     AccountID int,
-    CustomerName varchar(100) NOT NULL,
+    <b>CustomerName varchar(100) NOT NULL,</b>
     Balance decimal(10, 2)
 );
 
 INSERT INTO Accounts (AccountID, Balance)
 VALUES (1, 100.00);
-```
+</pre>
 
 
 #### UNIQUE constraint
