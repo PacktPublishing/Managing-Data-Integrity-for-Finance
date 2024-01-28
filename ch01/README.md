@@ -72,20 +72,20 @@ print(f"Final counter value with mutex: {counter}")
 </pre>
 
 #### Floating-point number
-```
+<pre>
 principal = 1000
 rate = 0.001 # 0.1%
 time = 1/365
-interest_float = principal * rate * time
+<b>interest_float = principal * rate * time</b>
 interest_float
-```
+</pre>
 
 #### Decimal data type
-```
+<pre>
 from decimal import Decimal
 principal = Decimal('1000')
 rate = Decimal('0.001') # 0.1%
 time = Decimal('1') / Decimal('365')
-interest_decimal = principal * rate * time
+<b>interest_decimal = principal * rate * time</b>
 interest_decimal
-```
+</pre>
