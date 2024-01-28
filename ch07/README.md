@@ -10,3 +10,6 @@ This chapter focuses on processes and strategies to detect fraudulent transactio
 <br />
 <br />
 <br />
+
+## Links and Files
+- [Chapter 7 Financial Data.xlsx](https://github.com/PacktPublishing/Managing-Data-Integrity-for-Finance/blob/main/ch07/Chapter%207%20Financial%20Data.xlsx)
