@@ -11,6 +11,10 @@ This chapter dives deep into the data integrity issues and challenges faced by d
 <br />
 <br />
 
+## Links and Files
+- https://cfomagazine.com.au/cybersecurity-another-hat-for-the-modern-cfo-to-wear/
+- https://www.bdo.com.au/en-au/services/advisory/risk-advisory-services/cyber-security/cyber-security-survey-reports
+  
 ## Implementing preventative measures and constraints when using databases such as PostgreSQL
 #### NOT NULL constraint
 
