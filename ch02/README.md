@@ -45,9 +45,9 @@ VALUES (2, 'Jane Sarah', <b>'jane@example.com'</b>);
 
 #### FOREIGN KEY constraint
 
-```
+<pre>
 CREATE TABLE Accounts (
-    AccountID int PRIMARY KEY,
+    <b>AccountID int PRIMARY KEY,</b>
     CustomerName varchar(100),
     Balance decimal(10, 2)
 );
@@ -57,40 +57,40 @@ CREATE TABLE Transactions (
     AccountID int,
     TransactionDate date,
     Amount decimal(10, 2),
-    FOREIGN KEY (AccountID) REFERENCES Accounts(AccountID)
+    <b>FOREIGN KEY (AccountID) REFERENCES Accounts(AccountID)</b>
 );
 
-INSERT INTO Transactions (TransactionID, AccountID, TransactionDate,
+INSERT INTO Transactions (TransactionID, <b>AccountID</b>, TransactionDate,
 Amount)
-VALUES (101, 1, '2023-01-01', 500.00);
-```
+VALUES (101, <b>1</b>, '2023-01-01', 500.00);
+</pre>
 
 
 #### CHECK constraint
 
-```
+<pre>
 CREATE TABLE Accounts (
     AccountID int,
     CustomerName varchar(100),
-    Balance decimal(10, 2) CHECK (Balance >= 0)
+    <b>Balance decimal(10, 2) CHECK (Balance >= 0)</b>
 );
 
-INSERT INTO Accounts (AccountID, CustomerName, Balance)
-VALUES (1, 'Jane Doe', -100.00);
-```
+INSERT INTO Accounts (AccountID, CustomerName, <b>Balance</b>)
+VALUES (1, 'Jane Doe', <b>-100.00</b>);
+</pre>
 
 
 #### DOMAIN constraint
 
-```
+<pre>
 CREATE TABLE Accounts (
     AccountID int,
     CustomerName varchar(100),
     Balance decimal(10, 2),
-    Type varchar(20) CHECK (Type IN ('Savings', 'Checking', 'Credit',
-'Loan'))
+    <b>Type varchar(20) CHECK (Type IN ('Savings', 'Checking', 'Credit',
+'Loan'))</b>
 );
 
-INSERT INTO Accounts (AccountID, CustomerName, Balance, Type)
-VALUES (1, 'Jane Doe', 1000.00, 'Investment');
-```
+INSERT INTO Accounts (AccountID, CustomerName, Balance, <b>Type</b>)
+VALUES (1, 'Jane Doe', 1000.00, <b>'Investment'</b>);
+</pre>
