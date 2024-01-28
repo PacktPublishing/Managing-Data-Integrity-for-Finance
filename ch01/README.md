@@ -18,6 +18,8 @@ This chapter gives you a quick overview of the concepts relevant to the succeedi
 - https://www.online-python.com/
 - https://en.wikipedia.org/wiki/Lock_(computer_science)
 - https://en.wikipedia.org/wiki/Floating-point_arithmetic
+- https://bigideasforsmallbusiness.com/a-guide-to-data-integrity-for-business-reliability-and-trust/
+- https://hbr.org/2006/04/the-unexpected-benefits-of-sarbanes-oxley
 
 <br />
 
