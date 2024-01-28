@@ -16,9 +16,9 @@ This chapter dives deep into the data integrity issues and challenges faced by d
 
 ```
 CREATE TABLE Accounts (
-AccountID int,
-CustomerName varchar(100) NOT NULL,
-Balance decimal(10, 2)
+    AccountID int,
+    CustomerName varchar(100) NOT NULL,
+    Balance decimal(10, 2)
 );
 
 INSERT INTO Accounts (AccountID, Balance)
@@ -70,9 +70,9 @@ VALUES (101, 1, '2023-01-01', 500.00);
 
 ```
 CREATE TABLE Accounts (
-AccountID int,
-CustomerName varchar(100),
-Balance decimal(10, 2) CHECK (Balance >= 0)
+    AccountID int,
+    CustomerName varchar(100),
+    Balance decimal(10, 2) CHECK (Balance >= 0)
 );
 
 INSERT INTO Accounts (AccountID, CustomerName, Balance)
@@ -84,10 +84,10 @@ VALUES (1, 'Jane Doe', -100.00);
 
 ```
 CREATE TABLE Accounts (
-AccountID int,
-CustomerName varchar(100),
-Balance decimal(10, 2),
-Type varchar(20) CHECK (Type IN ('Savings', 'Checking', 'Credit',
+    AccountID int,
+    CustomerName varchar(100),
+    Balance decimal(10, 2),
+    Type varchar(20) CHECK (Type IN ('Savings', 'Checking', 'Credit',
 'Loan'))
 );
 
