@@ -15,7 +15,16 @@ This chapter guides you on how to implement various best practices when using bu
 For the files related to the hands-on exercises and final reports, please refer to [Chapter 5](https://github.com/PacktPublishing/Managing-Data-Integrity-for-Finance/tree/main/ch05#readme).
 
 #### Links to dive deeper into the topics
-
+- https://learn.microsoft.com/en-us/power-bi/transform-model/desktop-date-tables
+- https://learn.microsoft.com/en-us/training/modules/perform-analytics-power-bi/3-visuals
+- https://help.tableau.com/current/online/en-us/dm_lineage.htm
+- https://learn.microsoft.com/en-us/power-query/merge-queries-overview
+- https://help.alteryx.com/current/en/designer/tools/join/join-tool.html
+- https://hbr.org/2022/07/a-better-way-to-put-your-data-to-work
+- https://www.sfmagazine.com/articles/2022/august/teaching-the-etl-process/
+- https://learn.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-types-for-reports-and-q-and-a
+- https://www.tableau.com/learn/articles/data-visualization
+  
 <br />
 
 ## Versions of the tools used
