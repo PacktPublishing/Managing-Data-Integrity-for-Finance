@@ -48,15 +48,15 @@ print(f"Final counter value without mutex: {counter}")
 ```
 
 #### Mutual exclusion (with mutex lock)
-```
+<pre>
 import threading
 counter = 0
-counter_lock = threading.Lock()
+<b>counter_lock = threading.Lock()</b>
  
 def increment_counter():
     global counter
     for _ in range(100000):
-        with counter_lock:
+        <b>with counter_lock:</b>
             counter += 1
  
 threads = []
@@ -69,7 +69,7 @@ for thread in threads:
     thread.join()
  
 print(f"Final counter value with mutex: {counter}")
-```
+</pre>
 
 #### Floating-point number
 ```
