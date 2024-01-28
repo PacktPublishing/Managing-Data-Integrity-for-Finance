@@ -17,3 +17,8 @@ This chapter teaches you how to develop and generate data quality scorecards usi
 - https://www.microsoft.com/en-au/microsoft-365/free-office-online-for-the-web
 - https://docs.google.com/spreadsheets/d/1wD759gINukpu9VJOJWECdG0PwcrWX_C-2DfsASZBxAc/edit?usp=drive_link
 - https://en.wikipedia.org/wiki/Principle_of_least_privilege
+- https://hbr.org/2016/09/bad-data-costs-the-u-s-3-trillion-per-year
+- https://hbr.org/2017/09/only-3-of-companies-data-meets-basic-quality-standards
+- https://www.montecarlodata.com/blog-data-quality-framework/
+- https://support.google.com/docs/answer/9331169?sjid=6656182883466582092-AP
+- https://support.microsoft.com/en-us/office/highlight-patterns-and-trends-with-conditional-formatting-eea152f5-2a7d-4c1a-a2da-c5f893adb621
