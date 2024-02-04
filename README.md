@@ -58,7 +58,7 @@ This section contains the corrections and updates to the printed copy of the boo
 
 | Chapter | Book Page Number | BEFORE                                             | AFTER                                  |
 | --------|------------------|----------------------------------------------------|----------------------------------------|
-| 2 | 28 | For scenarios in which finance professionals manually encode data to an Excel spreadsheet, here’s
+| 2       |               28 | For scenarios in which finance professionals manually encode data to an Excel spreadsheet, here’s
 an example of how we can use the built-in data validation function in Microsoft Excel to set up a
 rule that helps ensure that the Start Date information of the employees of the Pizza Factory (an
 example company) contains only dates and not a different data type. | For scenarios in which finance professionals manually encode data to an Excel spreadsheet, here’s
