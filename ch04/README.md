@@ -12,6 +12,7 @@ This chapter focuses on the common data quality capabilities of business intelli
 <br />
 
 ## Links and Files
+For the files related to the hands-on exercises and final reports, please refer to [Chapter 5](https://github.com/PacktPublishing/Managing-Data-Integrity-for-Finance/tree/main/ch05#readme).
 
 - https://learn.microsoft.com/en-us/power-bi/collaborate-share/service-data-lineage
 - https://help.tableau.com/current/server/en-us/dm_overview.htm
