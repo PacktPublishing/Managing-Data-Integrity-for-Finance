@@ -17,7 +17,7 @@ This book covers the following exciting features:
 * Discover the methods to detect fraudulent transactions affecting financial report integrity
 * Use artificial intelligence-powered solutions to resolve various data integrity issues and challenges
 
-If you feel this book is for you, get your [copy](https://www.amazon.com/Managing-Data-Integrity-Finance-professionals/dp/1837630143) today!
+If you feel this book is for you, get your [copy]([https://www.amazon.com/Managing-Data-Integrity-Finance-professionals/dp/1837630143](https://www.amazon.com/Managing-Data-Integrity-Finance-professionals-ebook/dp/B0CN7DGY92/)) today!
 
 
 ## Instructions and Navigations
