@@ -52,20 +52,6 @@ You are expected to have a basic understanding of concepts relating to finance, 
 |   Tableau, Tableau Prep Builder, and Tableau Cloud                                 | Windows (preferred) | 		
 |   Alteryx Designer                      			                       			          | Windows (preferred) | 		
 
-
-### Errata to the print copy
-This section contains the corrections and updates to the printed copy of the book which have been corrected in the PDF and Kindle version.
-
-| Chapter | Book Page Number | BEFORE                                             | AFTER                                  |
-| --------|------------------|----------------------------------------------------|----------------------------------------|
-| 2       |               28 | For scenarios in which finance professionals manually encode data to an Excel spreadsheet, here’s
-an example of how we can use the built-in data validation function in Microsoft Excel to set up a
-rule that helps ensure that the Start Date information of the employees of the Pizza Factory (an
-example company) contains only dates and not a different data type. | For scenarios in which finance professionals manually encode data to an Excel spreadsheet, here’s
-an example of how we can use the built-in data validation function in Microsoft Excel to set up a
-rule that helps ensure that a cell or group of cells in the spreadsheet contains only dates and not a different data type. |
-
-
 ### Related products <Other books you may enjoy>
 * Driving Data Quality with Data Contracts  [[Packt]](https://www.packtpub.com/product/driving-data-quality-with-data-contracts/9781837635009) [[Amazon]](https://www.amazon.com/Driving-Data-Quality-Contracts-comprehensive/dp/1837635005/)
   
